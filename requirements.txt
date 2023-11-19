@@ -5,3 +5,4 @@ opencv-python==4.8.1.78
 Pillow==10.0.1
 psutil==5.9.6
 tqdm==4.66.1
+flask>=3.0.0
